@@ -1,0 +1,4818 @@
+[
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 0,
+    "Runtime": 0.0,
+    "Eigenvalues": 2.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 1,
+    "Runtime": 0.009745597839355469,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 2,
+    "Runtime": 0.008086204528808594,
+    "Eigenvalues": 2.6180339887498962
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.004427194595336914,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 4,
+    "Runtime": 0.012703180313110352,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 5,
+    "Runtime": 0.10442185401916504,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 6,
+    "Runtime": 0.003796815872192383,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 7,
+    "Runtime": 0.05622100830078125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 8,
+    "Runtime": 1.0734848976135254,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 10,
+    "Runtime": 0.006602287292480469,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 11,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 12,
+    "Runtime": 0.004016876220703125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 13,
+    "Runtime": 0.0035142898559570312,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 14,
+    "Runtime": 0.003881216049194336,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 15,
+    "Runtime": 0.038573265075683594,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 16,
+    "Runtime": 0.005236387252807617,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 17,
+    "Runtime": 0.03156256675720215,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 18,
+    "Runtime": 1.0205864906311035,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 20,
+    "Runtime": 0.0020475387573242188,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 21,
+    "Runtime": 0.0015590190887451172,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 22,
+    "Runtime": 0.004837751388549805,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 23,
+    "Runtime": 0.0012018680572509766,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 24,
+    "Runtime": 0.0037288665771484375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 25,
+    "Runtime": 0.03877592086791992,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 26,
+    "Runtime": 0.0040209293365478516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 27,
+    "Runtime": 0.03602290153503418,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 28,
+    "Runtime": 1.009718894958496,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 30,
+    "Runtime": 0.0013892650604248047,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 31,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 32,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 33,
+    "Runtime": 0.009046792984008789,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 34,
+    "Runtime": 0.005104780197143555,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 35,
+    "Runtime": 0.0345456600189209,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 36,
+    "Runtime": 0.0045146942138671875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 37,
+    "Runtime": 0.06100583076477051,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 38,
+    "Runtime": 1.0247654914855957,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 40,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 41,
+    "Runtime": 0.021872758865356445,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 42,
+    "Runtime": 0.00701904296875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 43,
+    "Runtime": 0.0012412071228027344,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.013218402862548828,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 45,
+    "Runtime": 0.07085061073303223,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 46,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 47,
+    "Runtime": 0.06181812286376953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 48,
+    "Runtime": 0.9822931289672852,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 50,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 51,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 52,
+    "Runtime": 0.016624927520751953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 53,
+    "Runtime": 0.003639698028564453,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 54,
+    "Runtime": 0.011386632919311523,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 55,
+    "Runtime": 0.06871223449707031,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 56,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 57,
+    "Runtime": 0.06985783576965332,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 58,
+    "Runtime": 1.2498054504394531,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 60,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 61,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 62,
+    "Runtime": 0.010209083557128906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 63,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 64,
+    "Runtime": 0.005202293395996094,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 65,
+    "Runtime": 0.03462719917297363,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 66,
+    "Runtime": 0.004518032073974609,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 67,
+    "Runtime": 0.02809739112854004,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 68,
+    "Runtime": 0.9074015617370605,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 70,
+    "Runtime": 0.009784221649169922,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 71,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 72,
+    "Runtime": 0.017859935760498047,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 73,
+    "Runtime": 0.0022423267364501953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 74,
+    "Runtime": 0.00960993766784668,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 75,
+    "Runtime": 0.06817841529846191,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 76,
+    "Runtime": 0.0022182464599609375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 77,
+    "Runtime": 0.058443307876586914,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 78,
+    "Runtime": 0.971599817276001,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 80,
+    "Runtime": 0.0040280818939208984,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 81,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 82,
+    "Runtime": 0.004521608352661133,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 83,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 84,
+    "Runtime": 0.004017829895019531,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 85,
+    "Runtime": 0.03562617301940918,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 86,
+    "Runtime": 0.0035598278045654297,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 87,
+    "Runtime": 0.03646969795227051,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 88,
+    "Runtime": 1.087003231048584,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 90,
+    "Runtime": 0.003058195114135742,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 91,
+    "Runtime": 0.004542827606201172,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 92,
+    "Runtime": 0.015596389770507812,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 93,
+    "Runtime": 0.002112865447998047,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 94,
+    "Runtime": 0.017864465713500977,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 95,
+    "Runtime": 0.14317631721496582,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 96,
+    "Runtime": 0.008926868438720703,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 97,
+    "Runtime": 0.10863232612609863,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 98,
+    "Runtime": 1.5308005809783936,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 1,
+    "Coefficient": 100,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 2,
+    "Degree": 2,
+    "Coefficient": 0,
+    "Runtime": 0.0,
+    "Eigenvalues": 2.6180339887498962
+  },
+  {
+    "Prime": 2,
+    "Degree": 3,
+    "Coefficient": 1,
+    "Runtime": 0.008655548095703125,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 2,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 3,
+    "Runtime": 0.05121183395385742,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 4,
+    "Runtime": 0.8299894332885742,
+    "Eigenvalues": 1.618033988749895
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 6,
+    "Runtime": 0.0015919208526611328,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 7,
+    "Runtime": 0.0062482357025146484,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 8,
+    "Runtime": 0.06891489028930664,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 9,
+    "Runtime": 0.0020601749420166016,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 10,
+    "Runtime": 0.031815528869628906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 11,
+    "Runtime": 0.8704266548156738,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 13,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 14,
+    "Runtime": 0.014320611953735352,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 15,
+    "Runtime": 0.042955875396728516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 16,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 17,
+    "Runtime": 0.03639054298400879,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 18,
+    "Runtime": 0.8354775905609131,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 20,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 21,
+    "Runtime": 0.009537220001220703,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 22,
+    "Runtime": 0.02906322479248047,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 23,
+    "Runtime": 0.008733034133911133,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 24,
+    "Runtime": 0.03034353256225586,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 25,
+    "Runtime": 0.9709019660949707,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 27,
+    "Runtime": 0.004292488098144531,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 28,
+    "Runtime": 0.0073816776275634766,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 29,
+    "Runtime": 0.0683135986328125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 30,
+    "Runtime": 0.005931377410888672,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 31,
+    "Runtime": 0.057987213134765625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 32,
+    "Runtime": 1.325883388519287,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 34,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 35,
+    "Runtime": 0.011647939682006836,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 36,
+    "Runtime": 0.06816911697387695,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 37,
+    "Runtime": 0.006098747253417969,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 38,
+    "Runtime": 0.05615711212158203,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 39,
+    "Runtime": 1.181122064590454,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 41,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 42,
+    "Runtime": 0.008486270904541016,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 43,
+    "Runtime": 0.03269219398498535,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 44,
+    "Runtime": 0.002003908157348633,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 45,
+    "Runtime": 0.029832839965820312,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 46,
+    "Runtime": 0.85884690284729,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 48,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 49,
+    "Runtime": 0.011063575744628906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 50,
+    "Runtime": 0.03813052177429199,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 51,
+    "Runtime": 0.0020554065704345703,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 52,
+    "Runtime": 0.047823190689086914,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 53,
+    "Runtime": 0.8053200244903564,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 55,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 56,
+    "Runtime": 0.015647172927856445,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 57,
+    "Runtime": 0.07000303268432617,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 58,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 59,
+    "Runtime": 0.026131868362426758,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 60,
+    "Runtime": 0.9495489597320557,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 62,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 63,
+    "Runtime": 0.01755237579345703,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 64,
+    "Runtime": 0.04571819305419922,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 65,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 66,
+    "Runtime": 0.04029226303100586,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 67,
+    "Runtime": 0.9121506214141846,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 69,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 70,
+    "Runtime": 0.014962911605834961,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 71,
+    "Runtime": 0.04677462577819824,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 72,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 73,
+    "Runtime": 0.05109715461730957,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 74,
+    "Runtime": 0.8036985397338867,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 76,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 77,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 78,
+    "Runtime": 0.030231475830078125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 79,
+    "Runtime": 0.016871929168701172,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 80,
+    "Runtime": 0.03217625617980957,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 81,
+    "Runtime": 0.8407154083251953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 83,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 84,
+    "Runtime": 0.011011123657226562,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 85,
+    "Runtime": 0.03331804275512695,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 86,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 87,
+    "Runtime": 0.03703594207763672,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 88,
+    "Runtime": 0.8807437419891357,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 90,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 91,
+    "Runtime": 0.01653885841369629,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 92,
+    "Runtime": 0.05893063545227051,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 93,
+    "Runtime": 0.015629053115844727,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 94,
+    "Runtime": 0.03165030479431152,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 95,
+    "Runtime": 0.8318233489990234,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 97,
+    "Runtime": 0.0026481151580810547,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 98,
+    "Runtime": 0.0049021244049072266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 99,
+    "Runtime": 0.0419011116027832,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 1,
+    "Coefficient": 100,
+    "Runtime": 0.0034112930297851562,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 2,
+    "Coefficient": 0,
+    "Runtime": 0.048061370849609375,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 5,
+    "Degree": 3,
+    "Coefficient": 1,
+    "Runtime": 0.8538568019866943,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 4,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 5,
+    "Runtime": 0.06415939331054688,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 7,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 8,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 9,
+    "Runtime": 0.047342538833618164,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 11,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 12,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 13,
+    "Runtime": 0.047065019607543945,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 15,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 16,
+    "Runtime": 0.003912687301635742,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 17,
+    "Runtime": 0.027670860290527344,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 19,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 20,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 21,
+    "Runtime": 0.05244159698486328,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 23,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 24,
+    "Runtime": 0.00901937484741211,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 25,
+    "Runtime": 0.04837989807128906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 27,
+    "Runtime": 0.002097606658935547,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 28,
+    "Runtime": 0.006197214126586914,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 29,
+    "Runtime": 0.04000973701477051,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 31,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 32,
+    "Runtime": 0.016218900680541992,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 33,
+    "Runtime": 0.044886112213134766,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 35,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 36,
+    "Runtime": 0.01776432991027832,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 37,
+    "Runtime": 0.039440155029296875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 39,
+    "Runtime": 0.0005061626434326172,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 40,
+    "Runtime": 0.006716489791870117,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 41,
+    "Runtime": 0.03579092025756836,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 43,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.012282371520996094,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 45,
+    "Runtime": 0.04046463966369629,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 47,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 48,
+    "Runtime": 0.0050089359283447266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 49,
+    "Runtime": 0.03153085708618164,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 51,
+    "Runtime": 0.011020660400390625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 52,
+    "Runtime": 0.005017757415771484,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 53,
+    "Runtime": 0.03126716613769531,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 55,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 56,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 57,
+    "Runtime": 0.0485539436340332,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 59,
+    "Runtime": 0.005367279052734375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 60,
+    "Runtime": 0.009780645370483398,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 61,
+    "Runtime": 0.04330730438232422,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 63,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 64,
+    "Runtime": 0.011067867279052734,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 65,
+    "Runtime": 0.0404658317565918,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 67,
+    "Runtime": 0.0050084590911865234,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 68,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 69,
+    "Runtime": 0.04227423667907715,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 71,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 72,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 73,
+    "Runtime": 0.046874046325683594,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 75,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 76,
+    "Runtime": 0.01101231575012207,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 77,
+    "Runtime": 0.03707480430603027,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 79,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 80,
+    "Runtime": 0.015636444091796875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 81,
+    "Runtime": 0.031256914138793945,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 83,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 84,
+    "Runtime": 0.017668962478637695,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 85,
+    "Runtime": 0.03189444541931152,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 87,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 88,
+    "Runtime": 0.019497156143188477,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 89,
+    "Runtime": 0.04701542854309082,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 91,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 92,
+    "Runtime": 0.015587329864501953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 93,
+    "Runtime": 0.047002315521240234,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 95,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 96,
+    "Runtime": 0.009513139724731445,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 97,
+    "Runtime": 0.048258304595947266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 99,
+    "Runtime": 0.0020346641540527344,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 100,
+    "Runtime": 0.005239248275756836,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 0,
+    "Runtime": 0.056156158447265625,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 1,
+    "Runtime": 0.0063822269439697266,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 4,
+    "Runtime": 0.008553743362426758,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 5,
+    "Runtime": 0.08444690704345703,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 6,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 8,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 9,
+    "Runtime": 0.011013507843017578,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 10,
+    "Runtime": 0.07140254974365234,
+    "Eigenvalues": 1.618033988749895
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 11,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 13,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 14,
+    "Runtime": 0.009941577911376953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 15,
+    "Runtime": 0.06170368194580078,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 16,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 18,
+    "Runtime": 0.014058828353881836,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 19,
+    "Runtime": 0.008159399032592773,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 20,
+    "Runtime": 0.06227707862854004,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 21,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 23,
+    "Runtime": 0.009027242660522461,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 24,
+    "Runtime": 0.008687257766723633,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 25,
+    "Runtime": 0.08643817901611328,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 26,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 28,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 29,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 30,
+    "Runtime": 0.046894073486328125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 31,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 33,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 34,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 35,
+    "Runtime": 0.06844782829284668,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 36,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 38,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 39,
+    "Runtime": 0.012490987777709961,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 40,
+    "Runtime": 0.059735774993896484,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 41,
+    "Runtime": 0.0015478134155273438,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 43,
+    "Runtime": 0.0005135536193847656,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.00664520263671875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 45,
+    "Runtime": 0.0557098388671875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 46,
+    "Runtime": 0.004639625549316406,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 48,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 49,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 50,
+    "Runtime": 0.05599832534790039,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 51,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 53,
+    "Runtime": 0.002506256103515625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 54,
+    "Runtime": 0.0020880699157714844,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 55,
+    "Runtime": 0.060193777084350586,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 56,
+    "Runtime": 0.001009225845336914,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 58,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 59,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 60,
+    "Runtime": 0.08393049240112305,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 61,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 63,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 64,
+    "Runtime": 0.011128664016723633,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 65,
+    "Runtime": 0.0545344352722168,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 66,
+    "Runtime": 0.001722097396850586,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 68,
+    "Runtime": 0.0005156993865966797,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 69,
+    "Runtime": 0.005519390106201172,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 70,
+    "Runtime": 0.03782963752746582,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 71,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 73,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 74,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 75,
+    "Runtime": 0.050118207931518555,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 76,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 78,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 79,
+    "Runtime": 0.008883953094482422,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 80,
+    "Runtime": 0.04605841636657715,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 81,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 83,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 84,
+    "Runtime": 0.007765054702758789,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 85,
+    "Runtime": 0.05551552772521973,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 86,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 88,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 89,
+    "Runtime": 0.015625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 90,
+    "Runtime": 0.047289371490478516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 91,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 93,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 94,
+    "Runtime": 0.02052760124206543,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 95,
+    "Runtime": 0.03585171699523926,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 96,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 98,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 99,
+    "Runtime": 0.01267385482788086,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 100,
+    "Runtime": 0.047368764877319336,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 0,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 1,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 4,
+    "Runtime": 0.012464761734008789,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 5,
+    "Runtime": 0.04567289352416992,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 6,
+    "Runtime": 0.015654563903808594,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 7,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 9,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 10,
+    "Runtime": 0.01789236068725586,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 11,
+    "Runtime": 0.06601667404174805,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 12,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 13,
+    "Runtime": 0.012027263641357422,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 15,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 16,
+    "Runtime": 0.01900482177734375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 17,
+    "Runtime": 0.07567834854125977,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 18,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 19,
+    "Runtime": 0.015643835067749023,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 21,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 22,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 23,
+    "Runtime": 0.062497615814208984,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 24,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 25,
+    "Runtime": 0.0055084228515625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 27,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 28,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 29,
+    "Runtime": 0.04912066459655762,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 30,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 31,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 33,
+    "Runtime": 0.014510393142700195,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 34,
+    "Runtime": 0.007757902145385742,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 35,
+    "Runtime": 0.05674266815185547,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 36,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 37,
+    "Runtime": 0.015682697296142578,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 39,
+    "Runtime": 0.0014514923095703125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 40,
+    "Runtime": 0.002913951873779297,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 41,
+    "Runtime": 0.04340934753417969,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 42,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 43,
+    "Runtime": 0.0035524368286132812,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 45,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 46,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 47,
+    "Runtime": 0.0604705810546875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 48,
+    "Runtime": 0.015512704849243164,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 49,
+    "Runtime": 0.008159875869750977,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 51,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 52,
+    "Runtime": 0.008702516555786133,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 53,
+    "Runtime": 0.0629584789276123,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 54,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 55,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 57,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 58,
+    "Runtime": 0.015923738479614258,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 59,
+    "Runtime": 0.061289310455322266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 60,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 61,
+    "Runtime": 0.01562952995300293,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 63,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 64,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 65,
+    "Runtime": 0.10566234588623047,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 66,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 67,
+    "Runtime": 0.007239341735839844,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 69,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 70,
+    "Runtime": 0.012149572372436523,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 71,
+    "Runtime": 0.07482647895812988,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 72,
+    "Runtime": 0.01402902603149414,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 73,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 75,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 76,
+    "Runtime": 0.015661954879760742,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 77,
+    "Runtime": 0.09928584098815918,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 78,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 79,
+    "Runtime": 0.016184091567993164,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 81,
+    "Runtime": 0.0005593299865722656,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 82,
+    "Runtime": 0.012789011001586914,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 83,
+    "Runtime": 0.08592915534973145,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 84,
+    "Runtime": 0.007580280303955078,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 85,
+    "Runtime": 0.014045476913452148,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 87,
+    "Runtime": 0.003864288330078125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 88,
+    "Runtime": 0.009570598602294922,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 89,
+    "Runtime": 0.08257937431335449,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 90,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 91,
+    "Runtime": 0.019870758056640625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 93,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 94,
+    "Runtime": 0.011771917343139648,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 95,
+    "Runtime": 0.09497475624084473,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 96,
+    "Runtime": 0.0020339488983154297,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 97,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 99,
+    "Runtime": 0.014031648635864258,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 100,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 0,
+    "Runtime": 0.0671381950378418,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 1,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 2,
+    "Runtime": 0.006919384002685547,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 5,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 6,
+    "Runtime": 0.005520820617675781,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 7,
+    "Runtime": 0.07240676879882812,
+    "Eigenvalues": 0.9999999999999998
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 8,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 9,
+    "Runtime": 0.017614126205444336,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 10,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 12,
+    "Runtime": 0.00652623176574707,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 13,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 14,
+    "Runtime": 0.0780186653137207,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 15,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 16,
+    "Runtime": 0.015629053115844727,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 17,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 19,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 20,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 21,
+    "Runtime": 0.0818338394165039,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 22,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 23,
+    "Runtime": 0.013019800186157227,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 24,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 26,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 27,
+    "Runtime": 0.019758224487304688,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 28,
+    "Runtime": 0.0771479606628418,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 29,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 30,
+    "Runtime": 0.014014482498168945,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 31,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 33,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 34,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 35,
+    "Runtime": 0.0492396354675293,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 36,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 37,
+    "Runtime": 0.014012813568115234,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 38,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 40,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 41,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 42,
+    "Runtime": 0.0565342903137207,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 43,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.00848388671875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 45,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 47,
+    "Runtime": 0.004092216491699219,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 48,
+    "Runtime": 0.0055315494537353516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 49,
+    "Runtime": 0.0359492301940918,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 50,
+    "Runtime": 0.01745748519897461,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 51,
+    "Runtime": 0.007090330123901367,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 52,
+    "Runtime": 0.001857757568359375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 54,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 55,
+    "Runtime": 0.0069921016693115234,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 56,
+    "Runtime": 0.06175732612609863,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 57,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 58,
+    "Runtime": 0.017481565475463867,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 59,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 61,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 62,
+    "Runtime": 0.014013528823852539,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 63,
+    "Runtime": 0.13138294219970703,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 64,
+    "Runtime": 0.00644230842590332,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 65,
+    "Runtime": 0.01700139045715332,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 66,
+    "Runtime": 0.005921840667724609,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 68,
+    "Runtime": 0.0005786418914794922,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 69,
+    "Runtime": 0.018660783767700195,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 70,
+    "Runtime": 0.09657168388366699,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 71,
+    "Runtime": 0.0005419254302978516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 72,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 73,
+    "Runtime": 0.008011817932128906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 75,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 76,
+    "Runtime": 0.0037288665771484375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 77,
+    "Runtime": 0.06119680404663086,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 78,
+    "Runtime": 0.0011026859283447266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 79,
+    "Runtime": 0.003822803497314453,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 80,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 82,
+    "Runtime": 0.009528160095214844,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 83,
+    "Runtime": 0.006764650344848633,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 84,
+    "Runtime": 0.07810282707214355,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 85,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 86,
+    "Runtime": 0.011826515197753906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 87,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 89,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 90,
+    "Runtime": 0.014025688171386719,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 91,
+    "Runtime": 0.06252908706665039,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 92,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 93,
+    "Runtime": 0.011519908905029297,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 94,
+    "Runtime": 0.004516124725341797,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 96,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 97,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 98,
+    "Runtime": 0.03146553039550781,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 99,
+    "Runtime": 0.015637636184692383,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 100,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 0,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 1,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 4,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 5,
+    "Runtime": 0.048388004302978516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 6,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 7,
+    "Runtime": 0.01451253890991211,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 8,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 9,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 11,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 12,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 13,
+    "Runtime": 0.06282424926757812,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 14,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 15,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 16,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 17,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 19,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 20,
+    "Runtime": 0.015616416931152344,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 21,
+    "Runtime": 0.03165698051452637,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 22,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 23,
+    "Runtime": 0.015627384185791016,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 24,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 25,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 27,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 28,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 29,
+    "Runtime": 0.04958462715148926,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 30,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 31,
+    "Runtime": 0.014042377471923828,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 32,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 33,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 35,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 36,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 37,
+    "Runtime": 0.053308963775634766,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 38,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 39,
+    "Runtime": 0.00950765609741211,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 40,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 41,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 43,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 45,
+    "Runtime": 0.05060148239135742,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 46,
+    "Runtime": 0.014202356338500977,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 47,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 48,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 49,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 51,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 52,
+    "Runtime": 0.01456308364868164,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 53,
+    "Runtime": 0.0539851188659668,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 54,
+    "Runtime": 0.009051799774169922,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 55,
+    "Runtime": 0.002599000930786133,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 56,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 57,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 59,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 60,
+    "Runtime": 0.013529300689697266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 61,
+    "Runtime": 0.07913446426391602,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 62,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 63,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 64,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 65,
+    "Runtime": 0.015641212463378906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 67,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 68,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 69,
+    "Runtime": 0.07406044006347656,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 70,
+    "Runtime": 0.0015773773193359375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 71,
+    "Runtime": 0.009076595306396484,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 72,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 73,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 75,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 76,
+    "Runtime": 0.006783485412597656,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 77,
+    "Runtime": 0.06295061111450195,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 78,
+    "Runtime": 0.007063388824462891,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 79,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 80,
+    "Runtime": 0.007052898406982422,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 81,
+    "Runtime": 0.0005092620849609375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 83,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 84,
+    "Runtime": 0.007477283477783203,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 85,
+    "Runtime": 0.05416679382324219,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 86,
+    "Runtime": 0.0017282962799072266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 87,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 88,
+    "Runtime": 0.0072405338287353516,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 89,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 91,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 92,
+    "Runtime": 0.008105993270874023,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 93,
+    "Runtime": 0.03032827377319336,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 94,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 95,
+    "Runtime": 0.017079830169677734,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 96,
+    "Runtime": 0.0005526542663574219,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 97,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 99,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 100,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 0,
+    "Runtime": 0.04580950736999512,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 1,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 2,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 4,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 5,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 7,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 8,
+    "Runtime": 0.015627384185791016,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 9,
+    "Runtime": 0.047080278396606445,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 10,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 11,
+    "Runtime": 0.007678031921386719,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 12,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 13,
+    "Runtime": 0.008050680160522461,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 14,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 16,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 17,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 18,
+    "Runtime": 0.07216310501098633,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 19,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 20,
+    "Runtime": 0.007517814636230469,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 21,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 22,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 23,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 25,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 26,
+    "Runtime": 0.015645503997802734,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 27,
+    "Runtime": 0.06470322608947754,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 28,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 29,
+    "Runtime": 0.016027212142944336,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 30,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 31,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 32,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 34,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 35,
+    "Runtime": 0.01660633087158203,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 36,
+    "Runtime": 0.0541377067565918,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 37,
+    "Runtime": 0.006697177886962891,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 38,
+    "Runtime": 0.0010225772857666016,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 39,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 40,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 41,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 43,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.01751995086669922,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 45,
+    "Runtime": 0.06314682960510254,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 46,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 47,
+    "Runtime": 0.014036893844604492,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 48,
+    "Runtime": 0.0017154216766357422,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 49,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 50,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 52,
+    "Runtime": 0.003550291061401367,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 53,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 54,
+    "Runtime": 0.04368257522583008,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 55,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 56,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 57,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 58,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 59,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 61,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 62,
+    "Runtime": 0.014055490493774414,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 63,
+    "Runtime": 0.05165266990661621,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 64,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 65,
+    "Runtime": 0.011545896530151367,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 66,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 67,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 68,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 70,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 71,
+    "Runtime": 0.007705211639404297,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 72,
+    "Runtime": 0.06328058242797852,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 73,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 74,
+    "Runtime": 0.011188745498657227,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 75,
+    "Runtime": 0.0011556148529052734,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 76,
+    "Runtime": 0.0011589527130126953,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 77,
+    "Runtime": 0.001262664794921875,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 79,
+    "Runtime": 0.0020477771759033203,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 80,
+    "Runtime": 0.0005092620849609375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 81,
+    "Runtime": 0.05080389976501465,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 82,
+    "Runtime": 0.0018351078033447266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 83,
+    "Runtime": 0.0026111602783203125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 84,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 85,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 86,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 88,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 89,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 90,
+    "Runtime": 0.05326509475708008,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 91,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 92,
+    "Runtime": 0.005968809127807617,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 93,
+    "Runtime": 0.0005075931549072266,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 94,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 95,
+    "Runtime": 0.0020797252655029297,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 97,
+    "Runtime": 0.0005488395690917969,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 98,
+    "Runtime": 0.00883626937866211,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 99,
+    "Runtime": 0.04020118713378906,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 100,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 0,
+    "Runtime": 0.01563858985900879,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 1,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 2,
+    "Runtime": 0.009011507034301758,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  }
+]
