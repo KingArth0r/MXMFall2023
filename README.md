@@ -1,7 +1,7 @@
 # MXMFall2023
 Programs meant to aid research for MXM Fall 2023
 
-#Setup
+# Setup
 Make sure you have the latest version of python and have the relevant packages installed.
 
 InitialQuestions.py
