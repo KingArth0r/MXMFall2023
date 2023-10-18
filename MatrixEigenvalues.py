@@ -57,7 +57,7 @@ def main():
                     }
 
                     checked_data.append(result)
-                    print(f"Prime: {p}, Degree: {n}, Coefficient: {coefficient}, Runtime: {runtime:.2f} seconds")
+                    print(f"Prime: {p}, Degree: {n}, Coefficient: {coefficient}, Runtime: {runtime:.2f} seconds", np.max(eigenvalues))
 
                 except Exception as e:
                     print(f"Error: {e}")

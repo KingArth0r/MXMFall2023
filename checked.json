@@ -10,189 +10,189 @@
     "Prime": 2,
     "Degree": 2,
     "Coefficient": 1,
-    "Runtime": 0.009745597839355469,
+    "Runtime": 0.015625476837158203,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 2,
-    "Runtime": 0.008086204528808594,
+    "Runtime": 0.0,
     "Eigenvalues": 2.6180339887498962
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 3,
-    "Runtime": 0.004427194595336914,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 4,
-    "Runtime": 0.012703180313110352,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 5,
-    "Runtime": 0.10442185401916504,
+    "Runtime": 0.03129315376281738,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 6,
-    "Runtime": 0.003796815872192383,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 7,
-    "Runtime": 0.05622100830078125,
+    "Runtime": 0.02215123176574707,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 8,
-    "Runtime": 1.0734848976135254,
+    "Runtime": 0.5118105411529541,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 10,
-    "Runtime": 0.006602287292480469,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 2,
     "Coefficient": 11,
-    "Runtime": 0.0,
+    "Runtime": 0.015675783157348633,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 12,
-    "Runtime": 0.004016876220703125,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 13,
-    "Runtime": 0.0035142898559570312,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 14,
-    "Runtime": 0.003881216049194336,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 15,
-    "Runtime": 0.038573265075683594,
+    "Runtime": 0.031208515167236328,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 16,
-    "Runtime": 0.005236387252807617,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 17,
-    "Runtime": 0.03156256675720215,
+    "Runtime": 0.03125119209289551,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 18,
-    "Runtime": 1.0205864906311035,
+    "Runtime": 0.690086841583252,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 20,
-    "Runtime": 0.0020475387573242188,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 2,
     "Coefficient": 21,
-    "Runtime": 0.0015590190887451172,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 22,
-    "Runtime": 0.004837751388549805,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 23,
-    "Runtime": 0.0012018680572509766,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 24,
-    "Runtime": 0.0037288665771484375,
+    "Runtime": 0.015671491622924805,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 25,
-    "Runtime": 0.03877592086791992,
+    "Runtime": 0.016081809997558594,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 26,
-    "Runtime": 0.0040209293365478516,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 27,
-    "Runtime": 0.03602290153503418,
+    "Runtime": 0.03130221366882324,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 28,
-    "Runtime": 1.009718894958496,
+    "Runtime": 0.5336322784423828,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 30,
-    "Runtime": 0.0013892650604248047,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -213,42 +213,42 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 33,
-    "Runtime": 0.009046792984008789,
+    "Runtime": 0.015625715255737305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 34,
-    "Runtime": 0.005104780197143555,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 35,
-    "Runtime": 0.0345456600189209,
+    "Runtime": 0.016063451766967773,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 36,
-    "Runtime": 0.0045146942138671875,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 37,
-    "Runtime": 0.06100583076477051,
+    "Runtime": 0.04688453674316406,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 38,
-    "Runtime": 1.0247654914855957,
+    "Runtime": 0.5958836078643799,
     "Eigenvalues": 0.0
   },
   {
@@ -262,56 +262,56 @@
     "Prime": 2,
     "Degree": 2,
     "Coefficient": 41,
-    "Runtime": 0.021872758865356445,
+    "Runtime": 0.015615224838256836,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 42,
-    "Runtime": 0.00701904296875,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 43,
-    "Runtime": 0.0012412071228027344,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 44,
-    "Runtime": 0.013218402862548828,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 45,
-    "Runtime": 0.07085061073303223,
+    "Runtime": 0.03122258186340332,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 46,
-    "Runtime": 0.0,
+    "Runtime": 0.0065152645111083984,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 47,
-    "Runtime": 0.06181812286376953,
+    "Runtime": 0.009514331817626953,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 48,
-    "Runtime": 0.9822931289672852,
+    "Runtime": 0.5335161685943604,
     "Eigenvalues": 1.0
   },
   {
@@ -332,49 +332,49 @@
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 52,
-    "Runtime": 0.016624927520751953,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 53,
-    "Runtime": 0.003639698028564453,
+    "Runtime": 0.015630006790161133,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 54,
-    "Runtime": 0.011386632919311523,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 55,
-    "Runtime": 0.06871223449707031,
+    "Runtime": 0.015580177307128906,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 56,
-    "Runtime": 0.0,
+    "Runtime": 0.01562643051147461,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 57,
-    "Runtime": 0.06985783576965332,
+    "Runtime": 0.01601576805114746,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 58,
-    "Runtime": 1.2498054504394531,
+    "Runtime": 0.534041166305542,
     "Eigenvalues": 0.0
   },
   {
@@ -395,7 +395,7 @@
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 62,
-    "Runtime": 0.010209083557128906,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -409,42 +409,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 64,
-    "Runtime": 0.005202293395996094,
+    "Runtime": 0.015616178512573242,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 65,
-    "Runtime": 0.03462719917297363,
+    "Runtime": 0.015631914138793945,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 66,
-    "Runtime": 0.004518032073974609,
+    "Runtime": 0.015649080276489258,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 67,
-    "Runtime": 0.02809739112854004,
+    "Runtime": 0.01612091064453125,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 68,
-    "Runtime": 0.9074015617370605,
+    "Runtime": 0.5648140907287598,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 70,
-    "Runtime": 0.009784221649169922,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -458,70 +458,70 @@
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 72,
-    "Runtime": 0.017859935760498047,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 73,
-    "Runtime": 0.0022423267364501953,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 74,
-    "Runtime": 0.00960993766784668,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 75,
-    "Runtime": 0.06817841529846191,
+    "Runtime": 0.031230688095092773,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 76,
-    "Runtime": 0.0022182464599609375,
+    "Runtime": 0.00554203987121582,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 77,
-    "Runtime": 0.058443307876586914,
+    "Runtime": 0.010570287704467773,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 78,
-    "Runtime": 0.971599817276001,
+    "Runtime": 0.5337543487548828,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 80,
-    "Runtime": 0.0040280818939208984,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 2,
     "Coefficient": 81,
-    "Runtime": 0.0,
+    "Runtime": 0.015624523162841797,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 82,
-    "Runtime": 0.004521608352661133,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -535,105 +535,105 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 84,
-    "Runtime": 0.004017829895019531,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 85,
-    "Runtime": 0.03562617301940918,
+    "Runtime": 0.031264305114746094,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 86,
-    "Runtime": 0.0035598278045654297,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 87,
-    "Runtime": 0.03646969795227051,
+    "Runtime": 0.01610875129699707,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 88,
-    "Runtime": 1.087003231048584,
+    "Runtime": 0.5338037014007568,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 90,
-    "Runtime": 0.003058195114135742,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 2,
     "Coefficient": 91,
-    "Runtime": 0.004542827606201172,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 92,
-    "Runtime": 0.015596389770507812,
+    "Runtime": 0.015620946884155273,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 93,
-    "Runtime": 0.002112865447998047,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 94,
-    "Runtime": 0.017864465713500977,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 95,
-    "Runtime": 0.14317631721496582,
+    "Runtime": 0.03125429153442383,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 96,
-    "Runtime": 0.008926868438720703,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 97,
-    "Runtime": 0.10863232612609863,
+    "Runtime": 0.031188011169433594,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 98,
-    "Runtime": 1.5308005809783936,
+    "Runtime": 0.5180230140686035,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 2,
     "Degree": 1,
     "Coefficient": 100,
-    "Runtime": 0.0,
+    "Runtime": 0.015587568283081055,
     "Eigenvalues": 0.0
   },
   {
@@ -647,7 +647,7 @@
     "Prime": 2,
     "Degree": 3,
     "Coefficient": 1,
-    "Runtime": 0.008655548095703125,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
@@ -661,56 +661,56 @@
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 3,
-    "Runtime": 0.05121183395385742,
+    "Runtime": 0.031245708465576172,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 4,
-    "Runtime": 0.8299894332885742,
+    "Runtime": 0.5212609767913818,
     "Eigenvalues": 1.618033988749895
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 6,
-    "Runtime": 0.0015919208526611328,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 7,
-    "Runtime": 0.0062482357025146484,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 8,
-    "Runtime": 0.06891489028930664,
+    "Runtime": 0.044295549392700195,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 9,
-    "Runtime": 0.0020601749420166016,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 10,
-    "Runtime": 0.031815528869628906,
+    "Runtime": 0.01564645767211914,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 11,
-    "Runtime": 0.8704266548156738,
+    "Runtime": 0.5497691631317139,
     "Eigenvalues": 0.0
   },
   {
@@ -724,14 +724,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 14,
-    "Runtime": 0.014320611953735352,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 15,
-    "Runtime": 0.042955875396728516,
+    "Runtime": 0.03130078315734863,
     "Eigenvalues": 0.0
   },
   {
@@ -745,14 +745,14 @@
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 17,
-    "Runtime": 0.03639054298400879,
+    "Runtime": 0.015621185302734375,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 18,
-    "Runtime": 0.8354775905609131,
+    "Runtime": 0.5810403823852539,
     "Eigenvalues": 1.0
   },
   {
@@ -766,77 +766,77 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 21,
-    "Runtime": 0.009537220001220703,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 22,
-    "Runtime": 0.02906322479248047,
+    "Runtime": 0.03129005432128906,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 23,
-    "Runtime": 0.008733034133911133,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 24,
-    "Runtime": 0.03034353256225586,
+    "Runtime": 0.015631437301635742,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 25,
-    "Runtime": 0.9709019660949707,
+    "Runtime": 0.5810410976409912,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 27,
-    "Runtime": 0.004292488098144531,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 28,
-    "Runtime": 0.0073816776275634766,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 29,
-    "Runtime": 0.0683135986328125,
+    "Runtime": 0.015578985214233398,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 30,
-    "Runtime": 0.005931377410888672,
+    "Runtime": 0.015625715255737305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 31,
-    "Runtime": 0.057987213134765625,
+    "Runtime": 0.016028165817260742,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 32,
-    "Runtime": 1.325883388519287,
+    "Runtime": 0.5492691993713379,
     "Eigenvalues": 0.0
   },
   {
@@ -850,35 +850,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 35,
-    "Runtime": 0.011647939682006836,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 36,
-    "Runtime": 0.06816911697387695,
+    "Runtime": 0.03128337860107422,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 37,
-    "Runtime": 0.006098747253417969,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 38,
-    "Runtime": 0.05615711212158203,
+    "Runtime": 0.016146421432495117,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 39,
-    "Runtime": 1.181122064590454,
+    "Runtime": 0.5677146911621094,
     "Eigenvalues": 0.0
   },
   {
@@ -892,35 +892,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 42,
-    "Runtime": 0.008486270904541016,
+    "Runtime": 0.015625715255737305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 43,
-    "Runtime": 0.03269219398498535,
+    "Runtime": 0.01608753204345703,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 44,
-    "Runtime": 0.002003908157348633,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 45,
-    "Runtime": 0.029832839965820312,
+    "Runtime": 0.03130292892456055,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 46,
-    "Runtime": 0.85884690284729,
+    "Runtime": 0.520514726638794,
     "Eigenvalues": 0.0
   },
   {
@@ -934,35 +934,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 49,
-    "Runtime": 0.011063575744628906,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 50,
-    "Runtime": 0.03813052177429199,
+    "Runtime": 0.03124833106994629,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 51,
-    "Runtime": 0.0020554065704345703,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 52,
-    "Runtime": 0.047823190689086914,
+    "Runtime": 0.03169417381286621,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 53,
-    "Runtime": 0.8053200244903564,
+    "Runtime": 0.5178391933441162,
     "Eigenvalues": 0.0
   },
   {
@@ -976,35 +976,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 56,
-    "Runtime": 0.015647172927856445,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 57,
-    "Runtime": 0.07000303268432617,
+    "Runtime": 0.031280517578125,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 58,
-    "Runtime": 0.0,
+    "Runtime": 0.01564311981201172,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 59,
-    "Runtime": 0.026131868362426758,
+    "Runtime": 0.021137237548828125,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 60,
-    "Runtime": 0.9495489597320557,
+    "Runtime": 0.5443172454833984,
     "Eigenvalues": 0.0
   },
   {
@@ -1018,14 +1018,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 63,
-    "Runtime": 0.01755237579345703,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 64,
-    "Runtime": 0.04571819305419922,
+    "Runtime": 0.031205177307128906,
     "Eigenvalues": 0.0
   },
   {
@@ -1039,14 +1039,14 @@
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 66,
-    "Runtime": 0.04029226303100586,
+    "Runtime": 0.025226831436157227,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 67,
-    "Runtime": 0.9121506214141846,
+    "Runtime": 0.5398006439208984,
     "Eigenvalues": 0.0
   },
   {
@@ -1060,14 +1060,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 70,
-    "Runtime": 0.014962911605834961,
+    "Runtime": 0.01563239097595215,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 71,
-    "Runtime": 0.04677462577819824,
+    "Runtime": 0.015619754791259766,
     "Eigenvalues": 0.0
   },
   {
@@ -1081,14 +1081,14 @@
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 73,
-    "Runtime": 0.05109715461730957,
+    "Runtime": 0.03168368339538574,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 74,
-    "Runtime": 0.8036985397338867,
+    "Runtime": 0.5499465465545654,
     "Eigenvalues": 0.0
   },
   {
@@ -1109,28 +1109,28 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 78,
-    "Runtime": 0.030231475830078125,
+    "Runtime": 0.03128790855407715,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 79,
-    "Runtime": 0.016871929168701172,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 80,
-    "Runtime": 0.03217625617980957,
+    "Runtime": 0.03163313865661621,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 81,
-    "Runtime": 0.8407154083251953,
+    "Runtime": 0.5880482196807861,
     "Eigenvalues": 0.0
   },
   {
@@ -1144,14 +1144,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 84,
-    "Runtime": 0.011011123657226562,
+    "Runtime": 0.008567094802856445,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 85,
-    "Runtime": 0.03331804275512695,
+    "Runtime": 0.015680789947509766,
     "Eigenvalues": 0.0
   },
   {
@@ -1165,14 +1165,14 @@
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 87,
-    "Runtime": 0.03703594207763672,
+    "Runtime": 0.031249523162841797,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 88,
-    "Runtime": 0.8807437419891357,
+    "Runtime": 0.966346263885498,
     "Eigenvalues": 0.0
   },
   {
@@ -1186,77 +1186,77 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 91,
-    "Runtime": 0.01653885841369629,
+    "Runtime": 0.015932321548461914,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 92,
-    "Runtime": 0.05893063545227051,
+    "Runtime": 0.04557061195373535,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 93,
-    "Runtime": 0.015629053115844727,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 94,
-    "Runtime": 0.03165030479431152,
+    "Runtime": 0.04141807556152344,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 95,
-    "Runtime": 0.8318233489990234,
+    "Runtime": 0.8919618129730225,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 97,
-    "Runtime": 0.0026481151580810547,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 98,
-    "Runtime": 0.0049021244049072266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 99,
-    "Runtime": 0.0419011116027832,
+    "Runtime": 0.045436859130859375,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 1,
     "Coefficient": 100,
-    "Runtime": 0.0034112930297851562,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 5,
     "Degree": 2,
     "Coefficient": 0,
-    "Runtime": 0.048061370849609375,
+    "Runtime": 0.04791617393493652,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 5,
     "Degree": 3,
     "Coefficient": 1,
-    "Runtime": 0.8538568019866943,
+    "Runtime": 0.9118945598602295,
     "Eigenvalues": 1.0
   },
   {
@@ -1270,21 +1270,21 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 4,
-    "Runtime": 0.0,
+    "Runtime": 0.007059812545776367,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 5,
-    "Runtime": 0.06415939331054688,
+    "Runtime": 0.06106996536254883,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 7,
-    "Runtime": 0.0,
+    "Runtime": 0.006357431411743164,
     "Eigenvalues": 0.0
   },
   {
@@ -1298,7 +1298,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 9,
-    "Runtime": 0.047342538833618164,
+    "Runtime": 0.04081559181213379,
     "Eigenvalues": 1.0
   },
   {
@@ -1312,14 +1312,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 12,
-    "Runtime": 0.0,
+    "Runtime": 0.015682697296142578,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 13,
-    "Runtime": 0.047065019607543945,
+    "Runtime": 0.04705071449279785,
     "Eigenvalues": 0.0
   },
   {
@@ -1333,14 +1333,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 16,
-    "Runtime": 0.003912687301635742,
+    "Runtime": 0.006012678146362305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 17,
-    "Runtime": 0.027670860290527344,
+    "Runtime": 0.025688886642456055,
     "Eigenvalues": 0.0
   },
   {
@@ -1354,14 +1354,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 20,
-    "Runtime": 0.0,
+    "Runtime": 0.01566338539123535,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 21,
-    "Runtime": 0.05244159698486328,
+    "Runtime": 0.03283095359802246,
     "Eigenvalues": 0.0
   },
   {
@@ -1375,35 +1375,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 24,
-    "Runtime": 0.00901937484741211,
+    "Runtime": 0.014521360397338867,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 25,
-    "Runtime": 0.04837989807128906,
+    "Runtime": 0.03338885307312012,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 27,
-    "Runtime": 0.002097606658935547,
+    "Runtime": 0.014016866683959961,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 28,
-    "Runtime": 0.006197214126586914,
+    "Runtime": 0.002015829086303711,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 29,
-    "Runtime": 0.04000973701477051,
+    "Runtime": 0.043855905532836914,
     "Eigenvalues": 0.0
   },
   {
@@ -1417,14 +1417,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 32,
-    "Runtime": 0.016218900680541992,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 33,
-    "Runtime": 0.044886112213134766,
+    "Runtime": 0.049196720123291016,
     "Eigenvalues": 0.0
   },
   {
@@ -1438,56 +1438,56 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 36,
-    "Runtime": 0.01776432991027832,
+    "Runtime": 0.015241384506225586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 37,
-    "Runtime": 0.039440155029296875,
+    "Runtime": 0.048134565353393555,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 39,
-    "Runtime": 0.0005061626434326172,
+    "Runtime": 0.004009246826171875,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 40,
-    "Runtime": 0.006716489791870117,
+    "Runtime": 0.0062694549560546875,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 41,
-    "Runtime": 0.03579092025756836,
+    "Runtime": 0.053551435470581055,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 43,
-    "Runtime": 0.0,
+    "Runtime": 0.01405477523803711,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 44,
-    "Runtime": 0.012282371520996094,
+    "Runtime": 0.0065844058990478516,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 45,
-    "Runtime": 0.04046463966369629,
+    "Runtime": 0.04159426689147949,
     "Eigenvalues": 0.0
   },
   {
@@ -1501,77 +1501,77 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 48,
-    "Runtime": 0.0050089359283447266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 49,
-    "Runtime": 0.03153085708618164,
+    "Runtime": 0.045519113540649414,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 51,
-    "Runtime": 0.011020660400390625,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 52,
-    "Runtime": 0.005017757415771484,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 53,
-    "Runtime": 0.03126716613769531,
+    "Runtime": 0.055985450744628906,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 55,
-    "Runtime": 0.0,
+    "Runtime": 0.006507396697998047,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 56,
-    "Runtime": 0.0,
+    "Runtime": 0.009819269180297852,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 57,
-    "Runtime": 0.0485539436340332,
+    "Runtime": 0.03962588310241699,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 59,
-    "Runtime": 0.005367279052734375,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 60,
-    "Runtime": 0.009780645370483398,
+    "Runtime": 0.019567489624023438,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 61,
-    "Runtime": 0.04330730438232422,
+    "Runtime": 0.04197216033935547,
     "Eigenvalues": 0.0
   },
   {
@@ -1585,56 +1585,56 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 64,
-    "Runtime": 0.011067867279052734,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 65,
-    "Runtime": 0.0404658317565918,
+    "Runtime": 0.05303645133972168,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 67,
-    "Runtime": 0.0050084590911865234,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 68,
-    "Runtime": 0.0,
+    "Runtime": 0.011437654495239258,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 69,
-    "Runtime": 0.04227423667907715,
+    "Runtime": 0.04156923294067383,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 71,
-    "Runtime": 0.0,
+    "Runtime": 0.00617527961730957,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 72,
-    "Runtime": 0.0,
+    "Runtime": 0.006644010543823242,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 73,
-    "Runtime": 0.046874046325683594,
+    "Runtime": 0.04474472999572754,
     "Eigenvalues": 0.0
   },
   {
@@ -1648,14 +1648,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 76,
-    "Runtime": 0.01101231575012207,
+    "Runtime": 0.012824058532714844,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 77,
-    "Runtime": 0.03707480430603027,
+    "Runtime": 0.051552772521972656,
     "Eigenvalues": 0.0
   },
   {
@@ -1669,14 +1669,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 80,
-    "Runtime": 0.015636444091796875,
+    "Runtime": 0.012391328811645508,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 81,
-    "Runtime": 0.031256914138793945,
+    "Runtime": 0.0454411506652832,
     "Eigenvalues": 0.0
   },
   {
@@ -1690,14 +1690,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 84,
-    "Runtime": 0.017668962478637695,
+    "Runtime": 0.007602691650390625,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 85,
-    "Runtime": 0.03189444541931152,
+    "Runtime": 0.04016828536987305,
     "Eigenvalues": 0.0
   },
   {
@@ -1711,35 +1711,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 88,
-    "Runtime": 0.019497156143188477,
+    "Runtime": 0.011774539947509766,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 89,
-    "Runtime": 0.04701542854309082,
+    "Runtime": 0.041719913482666016,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 91,
-    "Runtime": 0.0,
+    "Runtime": 0.009561538696289062,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 92,
-    "Runtime": 0.015587329864501953,
+    "Runtime": 0.0018467903137207031,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 93,
-    "Runtime": 0.047002315521240234,
+    "Runtime": 0.04526472091674805,
     "Eigenvalues": 0.0
   },
   {
@@ -1753,42 +1753,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 96,
-    "Runtime": 0.009513139724731445,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 97,
-    "Runtime": 0.048258304595947266,
+    "Runtime": 0.04791998863220215,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 99,
-    "Runtime": 0.0020346641540527344,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 100,
-    "Runtime": 0.005239248275756836,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 0,
-    "Runtime": 0.056156158447265625,
+    "Runtime": 0.04830217361450195,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 1,
-    "Runtime": 0.0063822269439697266,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
@@ -1802,14 +1802,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 4,
-    "Runtime": 0.008553743362426758,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 5,
-    "Runtime": 0.08444690704345703,
+    "Runtime": 0.048836708068847656,
     "Eigenvalues": 0.0
   },
   {
@@ -1823,21 +1823,21 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 8,
-    "Runtime": 0.0,
+    "Runtime": 0.01404714584350586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 9,
-    "Runtime": 0.011013507843017578,
+    "Runtime": 0.001990795135498047,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 10,
-    "Runtime": 0.07140254974365234,
+    "Runtime": 0.02987980842590332,
     "Eigenvalues": 1.618033988749895
   },
   {
@@ -1858,14 +1858,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 14,
-    "Runtime": 0.009941577911376953,
+    "Runtime": 0.01563882827758789,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 15,
-    "Runtime": 0.06170368194580078,
+    "Runtime": 0.03174877166748047,
     "Eigenvalues": 0.0
   },
   {
@@ -1879,21 +1879,21 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 18,
-    "Runtime": 0.014058828353881836,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 19,
-    "Runtime": 0.008159399032592773,
+    "Runtime": 0.01565265655517578,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 20,
-    "Runtime": 0.06227707862854004,
+    "Runtime": 0.04048299789428711,
     "Eigenvalues": 0.0
   },
   {
@@ -1907,49 +1907,49 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 23,
-    "Runtime": 0.009027242660522461,
+    "Runtime": 0.006433248519897461,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 24,
-    "Runtime": 0.008687257766723633,
+    "Runtime": 0.0016632080078125,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 25,
-    "Runtime": 0.08643817901611328,
+    "Runtime": 0.06443333625793457,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 26,
-    "Runtime": 0.0,
+    "Runtime": 0.003923654556274414,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 28,
-    "Runtime": 0.0,
+    "Runtime": 0.001811981201171875,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 29,
-    "Runtime": 0.0,
+    "Runtime": 0.00704646110534668,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 30,
-    "Runtime": 0.046894073486328125,
+    "Runtime": 0.04733157157897949,
     "Eigenvalues": 0.0
   },
   {
@@ -1977,7 +1977,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 35,
-    "Runtime": 0.06844782829284668,
+    "Runtime": 0.06520485877990723,
     "Eigenvalues": 0.0
   },
   {
@@ -1998,481 +1998,481 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 39,
-    "Runtime": 0.012490987777709961,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 40,
-    "Runtime": 0.059735774993896484,
+    "Runtime": 0.062004804611206055,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 41,
-    "Runtime": 0.0015478134155273438,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 43,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 44,
+    "Runtime": 0.015653610229492188,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 45,
+    "Runtime": 0.0666816234588623,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 46,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 48,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 49,
+    "Runtime": 0.01251220703125,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 50,
+    "Runtime": 0.0811452865600586,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 51,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 53,
+    "Runtime": 0.004366874694824219,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 54,
+    "Runtime": 0.009026527404785156,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 55,
+    "Runtime": 0.09644269943237305,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 56,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 58,
+    "Runtime": 0.016757965087890625,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 59,
+    "Runtime": 0.0005185604095458984,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 60,
+    "Runtime": 0.04532504081726074,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 61,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 63,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 64,
+    "Runtime": 0.017854928970336914,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 65,
+    "Runtime": 0.06201815605163574,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 66,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 68,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 69,
+    "Runtime": 0.0206453800201416,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 70,
+    "Runtime": 0.07485222816467285,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 71,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 73,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 74,
+    "Runtime": 0.01750016212463379,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 75,
+    "Runtime": 0.06365633010864258,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 76,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 78,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 79,
+    "Runtime": 0.015484094619750977,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 80,
+    "Runtime": 0.051631927490234375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 81,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 83,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 84,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 85,
+    "Runtime": 0.04880642890930176,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 86,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 88,
+    "Runtime": 0.00805354118347168,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 89,
+    "Runtime": 0.0019040107727050781,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 90,
+    "Runtime": 0.061257123947143555,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 91,
+    "Runtime": 0.002155780792236328,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 93,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 94,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 95,
+    "Runtime": 0.07862043380737305,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 96,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 98,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 99,
+    "Runtime": 0.014027118682861328,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 100,
+    "Runtime": 0.08060216903686523,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 0,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 1,
+    "Runtime": 0.014909029006958008,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 3,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 4,
+    "Runtime": 0.015688180923461914,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 5,
+    "Runtime": 0.04705548286437988,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 6,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 7,
+    "Runtime": 0.015625953674316406,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 9,
+    "Runtime": 0.001508474349975586,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 10,
+    "Runtime": 0.0,
+    "Eigenvalues": 1.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 11,
+    "Runtime": 0.053896427154541016,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 12,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 13,
+    "Runtime": 0.008050680160522461,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 15,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 16,
+    "Runtime": 0.008314132690429688,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 17,
+    "Runtime": 0.048561811447143555,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 18,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 19,
+    "Runtime": 0.008877992630004883,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 21,
     "Runtime": 0.0005135536193847656,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
-    "Coefficient": 44,
-    "Runtime": 0.00664520263671875,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 45,
-    "Runtime": 0.0557098388671875,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 46,
-    "Runtime": 0.004639625549316406,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 48,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 49,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 50,
-    "Runtime": 0.05599832534790039,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 51,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 53,
-    "Runtime": 0.002506256103515625,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 54,
-    "Runtime": 0.0020880699157714844,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 55,
-    "Runtime": 0.060193777084350586,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 56,
-    "Runtime": 0.001009225845336914,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 58,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 59,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 60,
-    "Runtime": 0.08393049240112305,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 61,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 63,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 64,
-    "Runtime": 0.011128664016723633,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 65,
-    "Runtime": 0.0545344352722168,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 66,
-    "Runtime": 0.001722097396850586,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 68,
-    "Runtime": 0.0005156993865966797,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 69,
-    "Runtime": 0.005519390106201172,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 70,
-    "Runtime": 0.03782963752746582,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 71,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 73,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 74,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 75,
-    "Runtime": 0.050118207931518555,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 76,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 78,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 79,
-    "Runtime": 0.008883953094482422,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 80,
-    "Runtime": 0.04605841636657715,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 81,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 83,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 84,
-    "Runtime": 0.007765054702758789,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 85,
-    "Runtime": 0.05551552772521973,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 86,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 88,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 89,
-    "Runtime": 0.015625,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 90,
-    "Runtime": 0.047289371490478516,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 91,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 93,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 94,
-    "Runtime": 0.02052760124206543,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 95,
-    "Runtime": 0.03585171699523926,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 96,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 98,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 99,
-    "Runtime": 0.01267385482788086,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 100,
-    "Runtime": 0.047368764877319336,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 0,
-    "Runtime": 0.0,
-    "Eigenvalues": 1.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 1,
-    "Runtime": 0.0,
-    "Eigenvalues": 1.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 3,
-    "Runtime": 0.0,
-    "Eigenvalues": 1.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 4,
-    "Runtime": 0.012464761734008789,
-    "Eigenvalues": 1.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 5,
-    "Runtime": 0.04567289352416992,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 6,
-    "Runtime": 0.015654563903808594,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 7,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 9,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 10,
-    "Runtime": 0.01789236068725586,
-    "Eigenvalues": 1.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 11,
-    "Runtime": 0.06601667404174805,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 12,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 13,
-    "Runtime": 0.012027263641357422,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 15,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 16,
-    "Runtime": 0.01900482177734375,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 17,
-    "Runtime": 0.07567834854125977,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 18,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 19,
-    "Runtime": 0.015643835067749023,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 21,
-    "Runtime": 0.0,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
     "Coefficient": 22,
     "Runtime": 0.0,
     "Eigenvalues": 0.0
@@ -2481,7 +2481,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 23,
-    "Runtime": 0.062497615814208984,
+    "Runtime": 0.05973219871520996,
     "Eigenvalues": 0.0
   },
   {
@@ -2495,7 +2495,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 25,
-    "Runtime": 0.0055084228515625,
+    "Runtime": 0.016032695770263672,
     "Eigenvalues": 0.0
   },
   {
@@ -2516,7 +2516,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 29,
-    "Runtime": 0.04912066459655762,
+    "Runtime": 0.08038091659545898,
     "Eigenvalues": 0.0
   },
   {
@@ -2530,28 +2530,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 31,
-    "Runtime": 0.0,
+    "Runtime": 0.011455059051513672,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 33,
-    "Runtime": 0.014510393142700195,
+    "Runtime": 0.002513408660888672,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 34,
-    "Runtime": 0.007757902145385742,
+    "Runtime": 0.001874685287475586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 35,
-    "Runtime": 0.05674266815185547,
+    "Runtime": 0.0787363052368164,
     "Eigenvalues": 0.0
   },
   {
@@ -2565,28 +2565,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 37,
-    "Runtime": 0.015682697296142578,
+    "Runtime": 0.021575450897216797,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 39,
-    "Runtime": 0.0014514923095703125,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 40,
-    "Runtime": 0.002913951873779297,
+    "Runtime": 0.013084173202514648,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 41,
-    "Runtime": 0.04340934753417969,
+    "Runtime": 0.0740976333618164,
     "Eigenvalues": 0.0
   },
   {
@@ -2600,77 +2600,77 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 43,
-    "Runtime": 0.0035524368286132812,
+    "Runtime": 0.014097452163696289,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 45,
-    "Runtime": 0.0,
+    "Runtime": 0.001010894775390625,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 46,
-    "Runtime": 0.0,
+    "Runtime": 0.00513005256652832,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 47,
-    "Runtime": 0.0604705810546875,
+    "Runtime": 0.04346609115600586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 48,
-    "Runtime": 0.015512704849243164,
+    "Runtime": 0.002505779266357422,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 49,
-    "Runtime": 0.008159875869750977,
+    "Runtime": 0.0061151981353759766,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 51,
-    "Runtime": 0.0,
+    "Runtime": 0.0005075931549072266,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 52,
-    "Runtime": 0.008702516555786133,
+    "Runtime": 0.006284475326538086,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 53,
-    "Runtime": 0.0629584789276123,
+    "Runtime": 0.04390668869018555,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 54,
-    "Runtime": 0.0,
+    "Runtime": 0.0014531612396240234,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 55,
-    "Runtime": 0.0,
+    "Runtime": 0.002560853958129883,
     "Eigenvalues": 0.0
   },
   {
@@ -2684,14 +2684,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 58,
-    "Runtime": 0.015923738479614258,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 59,
-    "Runtime": 0.061289310455322266,
+    "Runtime": 0.04754042625427246,
     "Eigenvalues": 0.0
   },
   {
@@ -2705,7 +2705,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 61,
-    "Runtime": 0.01562952995300293,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -2719,14 +2719,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 64,
-    "Runtime": 0.0,
+    "Runtime": 0.01619434356689453,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 65,
-    "Runtime": 0.10566234588623047,
+    "Runtime": 0.03641772270202637,
     "Eigenvalues": 0.0
   },
   {
@@ -2740,203 +2740,203 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 67,
-    "Runtime": 0.007239341735839844,
+    "Runtime": 0.012079715728759766,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 69,
-    "Runtime": 0.0,
+    "Runtime": 0.0050733089447021484,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 70,
-    "Runtime": 0.012149572372436523,
+    "Runtime": 0.004209995269775391,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 71,
-    "Runtime": 0.07482647895812988,
+    "Runtime": 0.0441439151763916,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 72,
-    "Runtime": 0.01402902603149414,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 73,
-    "Runtime": 0.0,
+    "Runtime": 0.004796504974365234,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 75,
-    "Runtime": 0.0,
+    "Runtime": 0.004014730453491211,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 76,
-    "Runtime": 0.015661954879760742,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 77,
-    "Runtime": 0.09928584098815918,
+    "Runtime": 0.05261945724487305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 78,
-    "Runtime": 0.0,
+    "Runtime": 0.0017781257629394531,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 79,
-    "Runtime": 0.016184091567993164,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 81,
-    "Runtime": 0.0005593299865722656,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 82,
-    "Runtime": 0.012789011001586914,
+    "Runtime": 0.009548187255859375,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 83,
-    "Runtime": 0.08592915534973145,
+    "Runtime": 0.047095298767089844,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 84,
-    "Runtime": 0.007580280303955078,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 85,
-    "Runtime": 0.014045476913452148,
+    "Runtime": 0.0005514621734619141,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 87,
-    "Runtime": 0.003864288330078125,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 88,
-    "Runtime": 0.009570598602294922,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 89,
-    "Runtime": 0.08257937431335449,
+    "Runtime": 0.05388307571411133,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 90,
-    "Runtime": 0.0,
+    "Runtime": 0.0010819435119628906,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 91,
-    "Runtime": 0.019870758056640625,
+    "Runtime": 0.005314826965332031,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 93,
-    "Runtime": 0.0,
+    "Runtime": 0.0043752193450927734,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 94,
-    "Runtime": 0.011771917343139648,
+    "Runtime": 0.009505271911621094,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 95,
-    "Runtime": 0.09497475624084473,
+    "Runtime": 0.04275178909301758,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 96,
-    "Runtime": 0.0020339488983154297,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 97,
-    "Runtime": 0.0,
+    "Runtime": 0.008319616317749023,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 99,
-    "Runtime": 0.014031648635864258,
+    "Runtime": 0.0012524127960205078,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 100,
-    "Runtime": 0.0,
+    "Runtime": 0.004916667938232422,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 0,
-    "Runtime": 0.0671381950378418,
+    "Runtime": 0.042762041091918945,
     "Eigenvalues": 1.0
   },
   {
@@ -2950,14 +2950,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 2,
-    "Runtime": 0.006919384002685547,
+    "Runtime": 0.0051136016845703125,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 3,
-    "Runtime": 0.0,
+    "Runtime": 0.0014116764068603516,
     "Eigenvalues": 1.0
   },
   {
@@ -2971,14 +2971,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 6,
-    "Runtime": 0.005520820617675781,
+    "Runtime": 0.0070269107818603516,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 7,
-    "Runtime": 0.07240676879882812,
+    "Runtime": 0.03971147537231445,
     "Eigenvalues": 0.9999999999999998
   },
   {
@@ -2992,35 +2992,35 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 9,
-    "Runtime": 0.017614126205444336,
+    "Runtime": 0.0053102970123291016,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 10,
-    "Runtime": 0.0,
+    "Runtime": 0.0048825740814208984,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 12,
-    "Runtime": 0.00652623176574707,
+    "Runtime": 0.0012159347534179688,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 13,
-    "Runtime": 0.0,
+    "Runtime": 0.005231142044067383,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 14,
-    "Runtime": 0.0780186653137207,
+    "Runtime": 0.04660749435424805,
     "Eigenvalues": 0.0
   },
   {
@@ -3034,7 +3034,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 16,
-    "Runtime": 0.015629053115844727,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -3055,14 +3055,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 20,
-    "Runtime": 0.0,
+    "Runtime": 0.01727581024169922,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 21,
-    "Runtime": 0.0818338394165039,
+    "Runtime": 0.04882478713989258,
     "Eigenvalues": 0.0
   },
   {
@@ -3076,7 +3076,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 23,
-    "Runtime": 0.013019800186157227,
+    "Runtime": 0.014854192733764648,
     "Eigenvalues": 0.0
   },
   {
@@ -3097,14 +3097,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 27,
-    "Runtime": 0.019758224487304688,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 28,
-    "Runtime": 0.0771479606628418,
+    "Runtime": 0.045439720153808594,
     "Eigenvalues": 1.0
   },
   {
@@ -3118,7 +3118,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 30,
-    "Runtime": 0.014014482498168945,
+    "Runtime": 0.01563286781311035,
     "Eigenvalues": 0.0
   },
   {
@@ -3146,7 +3146,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 35,
-    "Runtime": 0.0492396354675293,
+    "Runtime": 0.06264901161193848,
     "Eigenvalues": 0.0
   },
   {
@@ -3160,7 +3160,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 37,
-    "Runtime": 0.014012813568115234,
+    "Runtime": 0.016820430755615234,
     "Eigenvalues": 0.0
   },
   {
@@ -3188,7 +3188,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 42,
-    "Runtime": 0.0565342903137207,
+    "Runtime": 0.0802462100982666,
     "Eigenvalues": 0.0
   },
   {
@@ -3202,56 +3202,56 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 44,
-    "Runtime": 0.00848388671875,
+    "Runtime": 0.013556957244873047,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 45,
-    "Runtime": 0.0,
+    "Runtime": 0.0018830299377441406,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 47,
-    "Runtime": 0.004092216491699219,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 48,
-    "Runtime": 0.0055315494537353516,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 49,
-    "Runtime": 0.0359492301940918,
+    "Runtime": 0.04797673225402832,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 50,
-    "Runtime": 0.01745748519897461,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 51,
-    "Runtime": 0.007090330123901367,
+    "Runtime": 0.016008377075195312,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 52,
-    "Runtime": 0.001857757568359375,
+    "Runtime": 0.001409769058227539,
     "Eigenvalues": 0.0
   },
   {
@@ -3265,14 +3265,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 55,
-    "Runtime": 0.0069921016693115234,
+    "Runtime": 0.003484487533569336,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 56,
-    "Runtime": 0.06175732612609863,
+    "Runtime": 0.04352450370788574,
     "Eigenvalues": 0.0
   },
   {
@@ -3286,7 +3286,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 58,
-    "Runtime": 0.017481565475463867,
+    "Runtime": 0.006237030029296875,
     "Eigenvalues": 0.0
   },
   {
@@ -3307,77 +3307,77 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 62,
-    "Runtime": 0.014013528823852539,
+    "Runtime": 0.008304119110107422,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 63,
-    "Runtime": 0.13138294219970703,
+    "Runtime": 0.04692840576171875,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 64,
-    "Runtime": 0.00644230842590332,
+    "Runtime": 0.004964351654052734,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 65,
-    "Runtime": 0.01700139045715332,
+    "Runtime": 0.0040357112884521484,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 66,
-    "Runtime": 0.005921840667724609,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 68,
-    "Runtime": 0.0005786418914794922,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 69,
-    "Runtime": 0.018660783767700195,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 70,
-    "Runtime": 0.09657168388366699,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 71,
-    "Runtime": 0.0005419254302978516,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 72,
     "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
+    "Coefficient": 68,
+    "Runtime": 0.005519866943359375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 69,
+    "Runtime": 0.008437156677246094,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 70,
+    "Runtime": 0.05519247055053711,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 71,
+    "Runtime": 0.0,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
+    "Coefficient": 72,
+    "Runtime": 0.015645265579223633,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
     "Coefficient": 73,
-    "Runtime": 0.008011817932128906,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -3391,28 +3391,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 76,
-    "Runtime": 0.0037288665771484375,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 77,
-    "Runtime": 0.06119680404663086,
+    "Runtime": 0.048338890075683594,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 78,
-    "Runtime": 0.0011026859283447266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 79,
-    "Runtime": 0.003822803497314453,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -3426,35 +3426,35 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 82,
-    "Runtime": 0.009528160095214844,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 2,
-    "Coefficient": 83,
-    "Runtime": 0.006764650344848633,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 3,
-    "Coefficient": 84,
-    "Runtime": 0.07810282707214355,
-    "Eigenvalues": 0.0
-  },
-  {
-    "Prime": 3,
-    "Degree": 1,
-    "Coefficient": 85,
     "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
+    "Coefficient": 83,
+    "Runtime": 0.014555931091308594,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 3,
+    "Coefficient": 84,
+    "Runtime": 0.043788909912109375,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 1,
+    "Coefficient": 85,
+    "Runtime": 0.001554727554321289,
+    "Eigenvalues": 0.0
+  },
+  {
+    "Prime": 3,
+    "Degree": 2,
     "Coefficient": 86,
-    "Runtime": 0.011826515197753906,
+    "Runtime": 0.007453203201293945,
     "Eigenvalues": 0.0
   },
   {
@@ -3475,14 +3475,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 90,
-    "Runtime": 0.014025688171386719,
+    "Runtime": 0.0029473304748535156,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 91,
-    "Runtime": 0.06252908706665039,
+    "Runtime": 0.04133009910583496,
     "Eigenvalues": 0.0
   },
   {
@@ -3496,14 +3496,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 93,
-    "Runtime": 0.011519908905029297,
+    "Runtime": 0.020330190658569336,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 94,
-    "Runtime": 0.004516124725341797,
+    "Runtime": 0.000545501708984375,
     "Eigenvalues": 0.0
   },
   {
@@ -3524,21 +3524,21 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 98,
-    "Runtime": 0.03146553039550781,
+    "Runtime": 0.04702425003051758,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 99,
-    "Runtime": 0.015637636184692383,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 100,
-    "Runtime": 0.0,
+    "Runtime": 0.011562108993530273,
     "Eigenvalues": 0.0
   },
   {
@@ -3566,42 +3566,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 4,
-    "Runtime": 0.0,
+    "Runtime": 0.007797956466674805,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 5,
-    "Runtime": 0.048388004302978516,
+    "Runtime": 0.04572248458862305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 6,
-    "Runtime": 0.0,
+    "Runtime": 0.0065460205078125,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 7,
-    "Runtime": 0.01451253890991211,
+    "Runtime": 0.0019350051879882812,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 8,
-    "Runtime": 0.0,
+    "Runtime": 0.004560232162475586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 9,
-    "Runtime": 0.0,
+    "Runtime": 0.002078533172607422,
     "Eigenvalues": 0.0
   },
   {
@@ -3615,28 +3615,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 12,
-    "Runtime": 0.0,
+    "Runtime": 0.007595539093017578,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 13,
-    "Runtime": 0.06282424926757812,
+    "Runtime": 0.05055737495422363,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 14,
-    "Runtime": 0.0,
+    "Runtime": 0.007866382598876953,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 15,
-    "Runtime": 0.0,
+    "Runtime": 0.009168863296508789,
     "Eigenvalues": 0.0
   },
   {
@@ -3664,14 +3664,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 20,
-    "Runtime": 0.015616416931152344,
+    "Runtime": 0.011263132095336914,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 21,
-    "Runtime": 0.03165698051452637,
+    "Runtime": 0.04764962196350098,
     "Eigenvalues": 0.0
   },
   {
@@ -3685,7 +3685,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 23,
-    "Runtime": 0.015627384185791016,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -3699,14 +3699,14 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 25,
-    "Runtime": 0.0,
+    "Runtime": 0.014172792434692383,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 27,
-    "Runtime": 0.0,
+    "Runtime": 0.0015077590942382812,
     "Eigenvalues": 0.0
   },
   {
@@ -3720,7 +3720,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 29,
-    "Runtime": 0.04958462715148926,
+    "Runtime": 0.04976463317871094,
     "Eigenvalues": 0.0
   },
   {
@@ -3734,7 +3734,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 31,
-    "Runtime": 0.014042377471923828,
+    "Runtime": 0.006514072418212891,
     "Eigenvalues": 0.0
   },
   {
@@ -3762,42 +3762,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 36,
-    "Runtime": 0.0,
+    "Runtime": 0.006513357162475586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 37,
-    "Runtime": 0.053308963775634766,
+    "Runtime": 0.05840945243835449,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 38,
-    "Runtime": 0.0,
+    "Runtime": 0.005012989044189453,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 39,
-    "Runtime": 0.00950765609741211,
+    "Runtime": 0.007128715515136719,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 40,
-    "Runtime": 0.0,
+    "Runtime": 0.0016198158264160156,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 41,
-    "Runtime": 0.0,
+    "Runtime": 0.0016624927520751953,
     "Eigenvalues": 0.0
   },
   {
@@ -3811,21 +3811,21 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 44,
-    "Runtime": 0.0,
+    "Runtime": 0.0055463314056396484,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 45,
-    "Runtime": 0.05060148239135742,
+    "Runtime": 0.039990901947021484,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 46,
-    "Runtime": 0.014202356338500977,
+    "Runtime": 0.009523630142211914,
     "Eigenvalues": 0.0
   },
   {
@@ -3860,28 +3860,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 52,
-    "Runtime": 0.01456308364868164,
+    "Runtime": 0.014052152633666992,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 53,
-    "Runtime": 0.0539851188659668,
+    "Runtime": 0.03367948532104492,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 54,
-    "Runtime": 0.009051799774169922,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 55,
-    "Runtime": 0.002599000930786133,
+    "Runtime": 0.016590356826782227,
     "Eigenvalues": 0.0
   },
   {
@@ -3909,42 +3909,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 60,
-    "Runtime": 0.013529300689697266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 61,
-    "Runtime": 0.07913446426391602,
+    "Runtime": 0.052344322204589844,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 62,
-    "Runtime": 0.0,
+    "Runtime": 0.002583742141723633,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 63,
-    "Runtime": 0.0,
+    "Runtime": 0.006052732467651367,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 64,
-    "Runtime": 0.0,
+    "Runtime": 0.0019459724426269531,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 65,
-    "Runtime": 0.015641212463378906,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -3958,28 +3958,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 68,
-    "Runtime": 0.0,
+    "Runtime": 0.006377220153808594,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 69,
-    "Runtime": 0.07406044006347656,
+    "Runtime": 0.056377410888671875,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 70,
-    "Runtime": 0.0015773773193359375,
+    "Runtime": 0.014565706253051758,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 71,
-    "Runtime": 0.009076595306396484,
+    "Runtime": 0.0019190311431884766,
     "Eigenvalues": 0.0
   },
   {
@@ -4007,42 +4007,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 76,
-    "Runtime": 0.006783485412597656,
+    "Runtime": 0.014014720916748047,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 77,
-    "Runtime": 0.06295061111450195,
+    "Runtime": 0.04865455627441406,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 78,
-    "Runtime": 0.007063388824462891,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 79,
-    "Runtime": 0.0,
+    "Runtime": 0.004280805587768555,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 80,
-    "Runtime": 0.007052898406982422,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 81,
-    "Runtime": 0.0005092620849609375,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -4056,42 +4056,42 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 84,
-    "Runtime": 0.007477283477783203,
+    "Runtime": 0.010044336318969727,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 85,
-    "Runtime": 0.05416679382324219,
+    "Runtime": 0.034180402755737305,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 86,
-    "Runtime": 0.0017282962799072266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 87,
-    "Runtime": 0.0,
+    "Runtime": 0.013520240783691406,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 88,
-    "Runtime": 0.0072405338287353516,
+    "Runtime": 0.0027031898498535156,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 89,
-    "Runtime": 0.0,
+    "Runtime": 0.004457235336303711,
     "Eigenvalues": 0.0
   },
   {
@@ -4105,14 +4105,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 92,
-    "Runtime": 0.008105993270874023,
+    "Runtime": 0.009179115295410156,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 93,
-    "Runtime": 0.03032827377319336,
+    "Runtime": 0.04938936233520508,
     "Eigenvalues": 0.0
   },
   {
@@ -4126,21 +4126,21 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 95,
-    "Runtime": 0.017079830169677734,
+    "Runtime": 0.012512445449829102,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 96,
-    "Runtime": 0.0005526542663574219,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 97,
-    "Runtime": 0.0,
+    "Runtime": 0.007273674011230469,
     "Eigenvalues": 0.0
   },
   {
@@ -4161,7 +4161,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 0,
-    "Runtime": 0.04580950736999512,
+    "Runtime": 0.07270526885986328,
     "Eigenvalues": 1.0
   },
   {
@@ -4175,49 +4175,49 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 2,
-    "Runtime": 0.0,
+    "Runtime": 0.0050084590911865234,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 3,
-    "Runtime": 0.0,
+    "Runtime": 0.0033402442932128906,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 4,
-    "Runtime": 0.0,
+    "Runtime": 0.0005502700805664062,
     "Eigenvalues": 1.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 5,
-    "Runtime": 0.0,
+    "Runtime": 0.00102996826171875,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 7,
-    "Runtime": 0.0,
+    "Runtime": 0.0012555122375488281,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 8,
-    "Runtime": 0.015627384185791016,
+    "Runtime": 0.005457162857055664,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 9,
-    "Runtime": 0.047080278396606445,
+    "Runtime": 0.029431819915771484,
     "Eigenvalues": 1.0
   },
   {
@@ -4231,7 +4231,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 11,
-    "Runtime": 0.007678031921386719,
+    "Runtime": 0.015683889389038086,
     "Eigenvalues": 0.0
   },
   {
@@ -4245,7 +4245,7 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 13,
-    "Runtime": 0.008050680160522461,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -4266,14 +4266,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 17,
-    "Runtime": 0.0,
+    "Runtime": 0.009647607803344727,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 18,
-    "Runtime": 0.07216310501098633,
+    "Runtime": 0.0485537052154541,
     "Eigenvalues": 0.0
   },
   {
@@ -4287,7 +4287,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 20,
-    "Runtime": 0.007517814636230469,
+    "Runtime": 0.006814718246459961,
     "Eigenvalues": 0.0
   },
   {
@@ -4308,7 +4308,7 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 23,
-    "Runtime": 0.0,
+    "Runtime": 0.006043195724487305,
     "Eigenvalues": 0.0
   },
   {
@@ -4322,14 +4322,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 26,
-    "Runtime": 0.015645503997802734,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 27,
-    "Runtime": 0.06470322608947754,
+    "Runtime": 0.04445338249206543,
     "Eigenvalues": 1.0
   },
   {
@@ -4343,7 +4343,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 29,
-    "Runtime": 0.016027212142944336,
+    "Runtime": 0.011052608489990234,
     "Eigenvalues": 0.0
   },
   {
@@ -4357,14 +4357,14 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 31,
-    "Runtime": 0.0,
+    "Runtime": 0.0043184757232666016,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 32,
-    "Runtime": 0.0,
+    "Runtime": 0.0005505084991455078,
     "Eigenvalues": 0.0
   },
   {
@@ -4378,28 +4378,28 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 35,
-    "Runtime": 0.01660633087158203,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 36,
-    "Runtime": 0.0541377067565918,
+    "Runtime": 0.04815053939819336,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 37,
-    "Runtime": 0.006697177886962891,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 38,
-    "Runtime": 0.0010225772857666016,
+    "Runtime": 0.010540008544921875,
     "Eigenvalues": 0.0
   },
   {
@@ -4434,14 +4434,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 44,
-    "Runtime": 0.01751995086669922,
+    "Runtime": 0.015638113021850586,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 45,
-    "Runtime": 0.06314682960510254,
+    "Runtime": 0.0789177417755127,
     "Eigenvalues": 0.0
   },
   {
@@ -4455,14 +4455,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 47,
-    "Runtime": 0.014036893844604492,
+    "Runtime": 0.01728367805480957,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 48,
-    "Runtime": 0.0017154216766357422,
+    "Runtime": 0.007884740829467773,
     "Eigenvalues": 0.0
   },
   {
@@ -4476,28 +4476,28 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 50,
-    "Runtime": 0.0,
+    "Runtime": 0.004520893096923828,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 52,
-    "Runtime": 0.003550291061401367,
+    "Runtime": 0.0011050701141357422,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 53,
-    "Runtime": 0.0,
+    "Runtime": 0.0024094581604003906,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 54,
-    "Runtime": 0.04368257522583008,
+    "Runtime": 0.04740190505981445,
     "Eigenvalues": 0.0
   },
   {
@@ -4511,7 +4511,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 56,
-    "Runtime": 0.0,
+    "Runtime": 0.009947538375854492,
     "Eigenvalues": 0.0
   },
   {
@@ -4532,7 +4532,7 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 59,
-    "Runtime": 0.0,
+    "Runtime": 0.0040531158447265625,
     "Eigenvalues": 0.0
   },
   {
@@ -4546,14 +4546,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 62,
-    "Runtime": 0.014055490493774414,
+    "Runtime": 0.0020227432250976562,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 63,
-    "Runtime": 0.05165266990661621,
+    "Runtime": 0.04568052291870117,
     "Eigenvalues": 0.0
   },
   {
@@ -4567,7 +4567,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 65,
-    "Runtime": 0.011545896530151367,
+    "Runtime": 0.006738424301147461,
     "Eigenvalues": 0.0
   },
   {
@@ -4595,21 +4595,21 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 70,
-    "Runtime": 0.0,
+    "Runtime": 0.004120349884033203,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 71,
-    "Runtime": 0.007705211639404297,
+    "Runtime": 0.0049741268157958984,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 72,
-    "Runtime": 0.06328058242797852,
+    "Runtime": 0.040116071701049805,
     "Eigenvalues": 0.0
   },
   {
@@ -4623,63 +4623,63 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 74,
-    "Runtime": 0.011188745498657227,
+    "Runtime": 0.0034332275390625,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 75,
-    "Runtime": 0.0011556148529052734,
+    "Runtime": 0.00405120849609375,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 76,
-    "Runtime": 0.0011589527130126953,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 77,
-    "Runtime": 0.001262664794921875,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 79,
-    "Runtime": 0.0020477771759033203,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 80,
-    "Runtime": 0.0005092620849609375,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 81,
-    "Runtime": 0.05080389976501465,
+    "Runtime": 0.04902505874633789,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 82,
-    "Runtime": 0.0018351078033447266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 83,
-    "Runtime": 0.0026111602783203125,
+    "Runtime": 0.014521121978759766,
     "Eigenvalues": 0.0
   },
   {
@@ -4721,7 +4721,7 @@
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 90,
-    "Runtime": 0.05326509475708008,
+    "Runtime": 0.06043744087219238,
     "Eigenvalues": 0.0
   },
   {
@@ -4735,14 +4735,14 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 92,
-    "Runtime": 0.005968809127807617,
+    "Runtime": 0.004460334777832031,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 93,
-    "Runtime": 0.0005075931549072266,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
@@ -4756,28 +4756,28 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 95,
-    "Runtime": 0.0020797252655029297,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 97,
-    "Runtime": 0.0005488395690917969,
+    "Runtime": 0.0,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 98,
-    "Runtime": 0.00883626937866211,
+    "Runtime": 0.01594400405883789,
     "Eigenvalues": 0.0
   },
   {
     "Prime": 3,
     "Degree": 3,
     "Coefficient": 99,
-    "Runtime": 0.04020118713378906,
+    "Runtime": 0.04579877853393555,
     "Eigenvalues": 0.0
   },
   {
@@ -4791,7 +4791,7 @@
     "Prime": 3,
     "Degree": 2,
     "Coefficient": 0,
-    "Runtime": 0.01563858985900879,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {
@@ -4805,7 +4805,7 @@
     "Prime": 3,
     "Degree": 1,
     "Coefficient": 2,
-    "Runtime": 0.009011507034301758,
+    "Runtime": 0.0,
     "Eigenvalues": 1.0
   },
   {

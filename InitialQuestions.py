@@ -15,20 +15,22 @@ def generate_matrix_eigenvalues(f, p, n):
     matrix = np.zeros((matrix_size, matrix_size), dtype=int)
 
     # Fill the matrix based on the specified condition
-    for i in range(matrix_size):
-        for j in range(matrix_size):
+    for i in range(1, matrix_size + 1):
+        for j in range(1, matrix_size + 1):
             if (p*i - polynomial.subs(x, j)) == 0 or (p**n) % (p*i - polynomial.subs(x, j)) == 0:
-                matrix[i, j] = 1
+                print(f"({i},{j})")
+                matrix[i - 1, j - 1] = 1
 
     # Calculate the eigenvalues of the matrix
     print(matrix)
     eigenvalues = np.linalg.eigvals(matrix)
+    print(eigenvalues)
 
     return np.max(eigenvalues)
 
 # Input values
-f = x**2 - x   # Example polynomial, change it to your desired polynomial
-p = 2           # Example prime number, change it to your desired prime
+f = x**2 - 2   # Example polynomial, change it to your desired polynomial
+p = 5           # Example prime number, change it to your desired prime
 n = 4         # Example integer value, change it to your desired integer
 
 eigenvalue = generate_matrix_eigenvalues(f, p, n)
