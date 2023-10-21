@@ -1,0 +1,43 @@
+import numpy as np
+import sympy as sp
+
+x = sp.symbols('x')
+
+def generate_sequences(f, p, valuerange,length):
+
+    polynomial = sp.Poly(f, x)
+    for i in range(valuerange):
+        sequence=np.zeros(length)
+        modsequence=np.zeros(length)
+        startingvalue = i
+        sequence[0]=startingvalue
+        for j in range(1, length):
+            check = (polynomial.subs(x,sequence[j-1]) / p)
+            if check.is_integer:
+                sequence[j] = (polynomial.subs(x, sequence[j - 1]) / p)
+            else:
+                sequence[j] = -0.5
+                break
+
+        for k in range(length):
+            modsequence[k]=sequence[k] % p
+
+
+        print("starting value is "+str(i))
+        print(sequence)
+        print(modsequence)
+
+# Input values
+f = x**3-2*x**2+x # Example polynomial, change it to your desired polynomial
+p = 3      # Example prime number, change it to your desired prime
+r = 10   # Example range, determines how many values, starting at zero, to check sequences for
+l = 10    # Example length, determines how large the generated sequences will be
+
+generate_sequences(f,p,r,l)
+
+
+
+
+
+
+
