@@ -8,9 +8,13 @@ def generate_matrix(f, p, n):
     matrix_size = p**n
     lil_matrix = sps.lil_matrix((matrix_size, matrix_size), dtype=np.float64)
 
+    #Bug: It seems that the largest eigenvalue is just p.
+
     jtable = defaultdict(list)
     for j in range(1, matrix_size + 1):  # Start index from 1
         jtable[int(np.polyval(f, j) / p % (p ** (n - 1)))].append(j)
+
+    print(jtable)
 
     for i in range(1, matrix_size + 1):  # Start index from 1
         for j in jtable[i % (p ** (n - 1))]:
@@ -19,12 +23,13 @@ def generate_matrix(f, p, n):
 
 def largest_eigenvalue(matrix):
     eigenvalue, _ = spsl.eigs(matrix, k=1, which='LR')  # Get the largest real part eigenvalue
+    print(eigenvalue)
     return eigenvalue[0].real
 
 def main():
     # Input values
-    p = 11           # Example prime number, change it to your desired prime
-    n = 4           # Example integer value, change it to your desired integer
+    p = 5           # Example prime number, change it to your desired prime
+    n = 3           # Example integer value, change it to your desired integer
 
     # Generate the matrix using a numpy polynomial
     f_coefficients = [1, 1]  # Coefficients for f

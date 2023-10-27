@@ -29,9 +29,9 @@ def generate_matrix_eigenvalues(f, p, n):
     return np.max(eigenvalues)
 
 # Input values
-f = x**2 - 2   # Example polynomial, change it to your desired polynomial
-p = 5           # Example prime number, change it to your desired prime
-n = 4         # Example integer value, change it to your desired integer
+f = x**3 - 2*x**2 + x   # Example polynomial, change it to your desired polynomial
+p = 3           # Example prime number, change it to your desired prime
+n = 6         # Example integer value, change it to your desired integer
 
 eigenvalue = generate_matrix_eigenvalues(f, p, n)
 print("Lambda(f,p,n):", eigenvalue)
