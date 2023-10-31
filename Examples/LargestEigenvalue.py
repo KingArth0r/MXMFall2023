@@ -1,4 +1,5 @@
 from Sparse import *
+import time
 
 # This program will print the largest eigenvalue and runtime for a given prime p and number n.
 # The complexity is O(p^n) so increasing n by 1 will increase time by a factor of p
