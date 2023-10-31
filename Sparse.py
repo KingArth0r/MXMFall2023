@@ -26,7 +26,6 @@ def generate_matrix(f, p, n):
 
 def largest_eigenvalue(matrix):
     eigenvalue, _ = spsl.eigs(matrix, k=1, which='LR')  # Get the largest real part eigenvalue
-    print(eigenvalue)
     return eigenvalue[0].real
 
 def main():
