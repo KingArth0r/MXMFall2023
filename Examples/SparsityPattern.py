@@ -1,5 +1,6 @@
 from Sparse import *
 import matplotlib.pyplot as plt
+import time
 
 # Choose a prime p, and a natural number n < 10 and the degree of the polynomials you wish to investigate
 # Also enter the number of polynomials you wish to generate
@@ -7,10 +8,10 @@ import matplotlib.pyplot as plt
 # and plot the largest eigenvalues and plot a heatmap for the nonzero elements of the generated matrices
 # This program will also print out the coefficients of polynomials in which it encountered an error
 # As of now the reason for the error is unknown since it's an open bug in the ARPACK library
-p = 5
-n = 4
-degree = 5
-num_polynomials = 1000
+p = 3
+n = 6
+degree = 3
+num_polynomials = 500
 
 def display_matrix(matrix):
     fig = plt.figure(1)
@@ -21,7 +22,7 @@ def display_eigenvalues(eigenvalues):
     fig = plt.figure(2)
     plt.scatter(list(range(len(eigenvalues))), eigenvalues)
 
-
+start_time = time.time()
 total_matrix = sps.csr_matrix((p**n, p**n))
 eigenvalues = []
 for _ in range(num_polynomials):
@@ -37,4 +38,7 @@ for _ in range(num_polynomials):
     total_matrix += matrix
 display_matrix(total_matrix)
 display_eigenvalues(eigenvalues)
+end_time = time.time()
+runtime = end_time - start_time
+print(f"Runtime: {runtime}")
 plt.show()
