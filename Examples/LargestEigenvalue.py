@@ -2,13 +2,13 @@ from Sparse import *
 import time
 
 # This program will print the largest eigenvalue and runtime for a given prime p and number n.
-# The complexity is O(p^n) so increasing n by 1 will increase time by a factor of p
+# The complexity is O(p^(n - 1)) so increasing n by 1 will increase time by a factor of p
 # The coefficients are from highest degree to lowest (including constant)
 # Example: x^3 + x is represented with [1, 0, 1, 0] and x^4 + 2x^2 - 5 is [1, 0, 2, 0, -5]
 # You can change the number of elements in the array to change the degree.
 p = 3
 n = 7
-f_coefficients = [1, 0, 1, 0]
+f_coefficients = [1, -2, 1, 0]
 
 
 f = np.poly1d(f_coefficients)

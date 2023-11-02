@@ -10,7 +10,7 @@ import time
 # As of now the reason for the error is unknown since it's an open bug in the ARPACK library
 p = 3
 n = 5
-degree = 5
+degree = 2
 num_polynomials = 500
 
 def display_matrix(matrix):
