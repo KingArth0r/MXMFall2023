@@ -6,9 +6,9 @@ import time
 # The coefficients are from highest degree to lowest (including constant)
 # Example: x^3 + x is represented with [1, 0, 1, 0] and x^4 + 2x^2 - 5 is [1, 0, 2, 0, -5]
 # You can change the number of elements in the array to change the degree.
-p = 3
-n = 7
-f_coefficients = [1, -2, 1, 0]
+p = 5
+n = 4
+f_coefficients = [1,-2 , 1, 0]
 
 
 f = np.poly1d(f_coefficients)
