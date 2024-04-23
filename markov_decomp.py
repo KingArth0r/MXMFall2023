@@ -11,7 +11,7 @@ def eval(f, x, m):
         y = (y * x + f[-1-i]) % m
     return y
 
-def decomp(f, p, n):
+def markov(f, p, n):
     df = d(f)
     C = []
     for i in range(p ** n):
@@ -38,7 +38,7 @@ def decomp(f, p, n):
     return M
 
 def main():
-  print(decomp([1, -2, 1, 0], 3, 3))
+  print(markov([1, -2, 1, 0], 3, 3))
 
 if __name__ == '__main__':
   main()
